@@ -99,6 +99,8 @@ array.slice(index start, index end)*/
 
 var fbFriends = ["Khalid", "Yeezy", "Kimmy K", "Lamar Odom", "Lebron", "Warren Buffet"];
 
+var unFriend = fbFriends.slice(1,4);
+console.log(unFriend);
 
 
 
